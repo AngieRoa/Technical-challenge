@@ -1,7 +1,13 @@
-# countries
+# Technical-challenge
+
+Este proyecto esta desarrollado utilizando el framework vue js junto con la implementación de un API para la alimentación de la misma
+
+## Manifestación
+Para visitar la demostración de este proyecto, visitar: https://prueba-a9a4d.web.app
 
 ## Project setup
 ```
+Para instalar y ejecutar este proyecto
 npm install
 ```
 
